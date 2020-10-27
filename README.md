@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Thyke Adams</h1>
 
-## Popular Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=discord-bot-client)](https://github.com/Flam3rboy/discord-bot-client)
 
 
 ### Languages I know:
