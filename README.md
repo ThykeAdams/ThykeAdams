@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/376901199225552898/401edcbaa39365697dc0a01cb1d0b485.png?size=2048">
+    <img style="border-radius: 100px" width="128" height="128" src="https://thyke.xyz/wp-content/uploads/2020/09/cropped-thyke-1.png">
 </p>
 <h1 align="center">Thyke Adams</h1>
 
