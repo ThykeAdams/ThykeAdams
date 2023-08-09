@@ -1,6 +1,6 @@
 # Bark Bark 🐺
 
-Heya, My name is Thyke (Alias of Devin Wood) I am an 18 Year old `<WebDeveloper/>` and
+Heya, My name is Thyke (Alias of Devin Wood) I am an 19 Year old `<WebDeveloper/>` and
 `const backendEngineer = Math.random() < 0.5`
 
 Psst... most of my ongoing projects are marked as private, iam willing to give access to employers seeking my skills
